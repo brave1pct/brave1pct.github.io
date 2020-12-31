@@ -4,13 +4,54 @@
   
     
     <entry>
-      <title>勇者是村长大人</title>
+      <title>勇者文章测试</title>
       <link href="2020/12/31/first/"/>
       <url>2020/12/31/first/</url>
       
         <content type="html"><![CDATA[<p>勇者是村长大人迎来1.2.0版本更新啦！！</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 勇者是村长大人 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> game </tag>
+            
+            <tag> news </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>勇者是村长大人v1.2.0版本</title>
+      <link href="2020/12/31/a0001/"/>
+      <url>2020/12/31/a0001/</url>
+      
+        <content type="html"><![CDATA[<p>##重大信息<br>各位村长大人，游戏已于ios完成v1.2.0版本更新，以下为主要更新内容说明：（安卓版本制作中，稍后会发布更新信息）</p><p>###更新内容如下：<br>1.游戏等级由30级拓展到120级。<br>2.新增内容-饰品，30级可在道具商店升级后进行打造！<br>3.新增内容-勇者随从、神圣牧师，可在升级31级的任务中完成初次激活！<br>4.新增内容-3大冒险章节：森之章、冰之章、炎之章，更多的冒险内容在其中开放！<br>5.新增内容-日常任务，7级开放，可通过完成日常任务更快的获得金币和钻石！<br>6.优化杂货店功能，一些武器防具、功能道具可直接在店里购买获得，只需要花费一些金币或小量钻石。<br>7.新增成就内容，增加30级~120级的成就目标。<br>8.新增任务目标，31级后任务会增加打怪任务，使其更有冒险和rpg的感觉。<br>9.优化抽奖**<em>逻辑，观看广告可获得双倍奖励；并且30级后的**</em>奖励会更丰富！<br>10.优化冒险中的随机事件，触发的事件大部分调整为免费获得一些道具支援，观看广告可获得更多数量。<br>11.由于神圣牧师跟随勇者出战，冒险中的“牧师事件”更改为“治疗之泉”事件。<br>12.优化勇者石像跟勇者随从和神圣牧师的广告联动功能，三者任一中使用了“观看广告恢复满”后，三者将同时都获得恢复！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 勇者是村长大人 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> game </tag>
+            
+            <tag> news </tag>
+            
+        </tags>
       
     </entry>
     
