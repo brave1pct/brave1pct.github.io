@@ -3,7 +3,6 @@ title: 勇者文章测试
 date: 2020-12-31 18:00:10
 tags:
 	- game
-	- news
 categories: 勇者是村长大人
 swiper: true
 swiperImg: '/medias/1.jpg'
