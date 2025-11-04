@@ -1,3 +1,10 @@
+video.unrulymedia.com, 657436911, RESELLER
+appnexus.com, 17779, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
+xandr.com, 17779, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 applovin.com, ff246d75c6671783504341cb96cf45ce, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
 contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
